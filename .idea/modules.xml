@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01-spring-cloud-parent/01-spring-cloud-parent.iml" filepath="$PROJECT_DIR$/01-spring-cloud-parent/01-spring-cloud-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-spring-cloud-parent/config-server-read/config-server-read.iml" filepath="$PROJECT_DIR$/01-spring-cloud-parent/config-server-read/config-server-read.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-spring-cloud-parent/eureka-registry-center/eureka-registry-center.iml" filepath="$PROJECT_DIR$/01-spring-cloud-parent/eureka-registry-center/eureka-registry-center.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-spring-cloud-parent/eureka-server-consumer/eureka-server-consumer.iml" filepath="$PROJECT_DIR$/01-spring-cloud-parent/eureka-server-consumer/eureka-server-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-spring-cloud-parent/eureka-server-provider/eureka-server-provider.iml" filepath="$PROJECT_DIR$/01-spring-cloud-parent/eureka-server-provider/eureka-server-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-spring-cloud-parent/eureka-server-ribbon/eureka-server-ribbon.iml" filepath="$PROJECT_DIR$/01-spring-cloud-parent/eureka-server-ribbon/eureka-server-ribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-spring-cloud-parent/eureka-server-zuul/eureka-server-zuul.iml" filepath="$PROJECT_DIR$/01-spring-cloud-parent/eureka-server-zuul/eureka-server-zuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-spring-cloud-parent/native-config-server/native-config-server.iml" filepath="$PROJECT_DIR$/01-spring-cloud-parent/native-config-server/native-config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-spring-cloud-parent/rest-template/rest-template.iml" filepath="$PROJECT_DIR$/01-spring-cloud-parent/rest-template/rest-template.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-spring-cloud-parent/server-feign/server-feign.iml" filepath="$PROJECT_DIR$/01-spring-cloud-parent/server-feign/server-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-spring-cloud-parent/server-hystrix/server-hystrix.iml" filepath="$PROJECT_DIR$/01-spring-cloud-parent/server-hystrix/server-hystrix.iml" />
+    </modules>
+  </component>
+</project>
